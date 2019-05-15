@@ -1,0 +1,17 @@
+{
+  "name": "airdrop-bot",
+  "version": "1.0.0",
+  "description": "a bot to airdrop tokens between steem and avalon",
+  "main": "code.js",
+  "dependencies": {
+    "javalon": "^1.0.1",
+    "json2csv": "^4.4.1",
+    "steem": "^0.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrien M",
+  "license": "MIT"
+}
